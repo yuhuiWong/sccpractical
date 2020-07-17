@@ -1,0 +1,2 @@
+# sccpractical
+software construction configuration
